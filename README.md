@@ -1,4 +1,4 @@
-Linear Regression - car mpg with other attributes
+car mpg with other attributes
 
 8 variables:
 
